@@ -2,9 +2,6 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
-
 > This past week, I've worked on learning Django for our backend development as well as discussing about \
 > the system structure for the whole project.
 
