@@ -2,23 +2,21 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I've finshed on learning Django for tutorials and we discussed further about \
+> the system structure for the whole project.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> For next week, I will start implementing something for our backend.
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Lack of knowledge for Django and python development still would be the biggest blocking element.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> None
