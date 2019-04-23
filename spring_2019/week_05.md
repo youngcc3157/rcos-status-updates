@@ -14,7 +14,7 @@
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> Lack of time for working on project due to other stuff.
+> I've spend most of my time thinking about scaliablity of the Data models and design it so that it won't need to be modified later on which is pretty bad. That's why I don't have many commits but I swear I work on the projects haha.
 
 ## Notes
 
