@@ -8,7 +8,7 @@
 
 > In this section, you can write about what you have planned for next week.
 
-> We are done.
+> I'll work on finishing up status reports and saying goodbye to my team.
 
 ## Anything Blocking?
 
